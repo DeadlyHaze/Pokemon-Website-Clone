@@ -1,0 +1,162 @@
+body{
+    background-image: url(./background.png);
+    line-height: 1;
+}
+ul.top{
+    background-color: #f5f5f5;
+    position: sticky ;
+    padding-left: 350px;
+}
+li{
+    display: inline-block;
+}
+.second{
+    margin-top: 0px;
+    position: fixed;
+    padding-left: 330px;
+    z-index: 111;
+}
+.charizard{
+    position: absolute;
+    width: 30%;
+    border: 2px solid orangered;
+    background-color: orangered;
+    margin-left: 300px;
+    margin-top: 170px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.charizard:hover{
+    background-color: rgb(180, 63, 20);
+    cursor: pointer;
+}
+
+.login{
+    width: 5%;
+    margin-top: 100px;
+    position: fixed;
+}
+img{
+    width: 100%;
+}
+.pikachu{
+    position: absolute;
+    width: 10%;
+    border: 2px solid brown;
+    background-color: brown;
+    margin-left: 825px;
+    margin-top: 170px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.poketoon{
+    width: 20%;
+    border: 2px solid #c7aa79;
+    background-color: #c7aa79;
+    margin-left: 1010px;
+    margin-top: 178px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.mix{
+    position: absolute;
+    width: 20%;
+    border: 2px solid #4dad5b;
+    background-color: #4dad5b;
+    margin-left: 300px;
+    margin-top: 170px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.ashnpika{
+    position: absolute;
+    width: 20%;
+    border: 2px solid #e6bc2f;
+    background-color: #e6bc2f;
+    margin-left: 657px;
+    margin-top: 170px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.match{
+    width: 20%;
+    border: 2px solid #1b53ba;
+    background-color: #1b53ba;
+    margin-left: 1012px;
+    margin-top: 120px;
+    color: black;    
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.featured{
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 50px;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.astral{
+    position: absolute;
+    width: 20%;
+    border: 2px solid #855ac9;
+    background-color: #855ac9;
+    margin-left: 300px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.championship{
+    position: absolute;
+    width: 20%;
+    border: 2px solid #1b53ba;
+    background-color: #1b53ba;
+    margin-left: 657px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.friend{
+    width: 20%;
+    border: 2px solid #ff90c4;
+    background-color: #ff90c4;
+    margin-left: 1012px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+h3{
+    color: #ffff;
+}
+.bird{
+    position: absolute;
+    width: 20%;
+    border: 2px solid #313131;
+    background-color: #313131;
+    margin-left: 300px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.pikasnack{
+    position: absolute;
+    width: 20%;
+    border: 2px solid #C7AA79;
+    background-color: #C7AA79;
+    margin-left: 657px;
+    color: black;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.battle{
+    width: 20%;
+    border: 2px solid #E3350D;
+    background-color: #E3350D;
+    margin-left: 1012px;
+    font-family: "Flexo-Regular",arial,sans-serif;
+}
+.footer{
+    padding-bottom: 100px;
+    background-color: #1f1f1f;
+}
+
+
+
+
+
+
+
+
+
